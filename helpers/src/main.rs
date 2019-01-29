@@ -119,11 +119,11 @@ fn main() {
     huffman(string_1);
     println!("\n");
 
-    // let string_2 = "145213211122235412";
-    // huffman(string_2);
-    // println!("\n");
-    //
-    // let string_3 = "zxcvvxzcxvzxcxczvx";
-    // huffman(string_3);
-    // println!("\n");
+    let string_2 = "145213211122235412";
+    huffman(string_2);
+    println!("\n");
+
+    let string_3 = "zxcvvxzcxvzxcxczvx";
+    huffman(string_3);
+    println!("\n");
 }

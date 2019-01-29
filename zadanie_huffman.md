@@ -1,3 +1,9 @@
+---
+ebook:
+  title: Algorytm Huffmana na WAD
+  authors: Franciszek Madej
+---
+
 # [WAD, 24.01.19] drzewa Huffmana
 ---
 
